@@ -1,4 +1,4 @@
-# fresh project
+# fresh-poc
 
 A proof-of-concept (poc) of writing websites with [deno-fresh](https://github.com/lucacasonato/fresh)
 
